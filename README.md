@@ -70,10 +70,3 @@ Key deliverables include:
 2. Evaluate and choose between networking mechanisms and protocols.
 3. Apply best practices in network documentation.
 4. Implement ethical and secure network solutions.
-
-## Contact
-
-- **Unit Leader**: Prof. Marios Angelopoulos  
-  Email: mangelopoulos@bournemouth.ac.uk
-
-For additional support, refer to the **Assessment Help and Support** section in the course content area.
